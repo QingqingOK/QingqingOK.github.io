@@ -2,7 +2,7 @@
 
 好看的个人主页，个人主页源码，博客主页模板.**🉑️随意使用，无限制。**
 
-预览地址：[https://wexuo.github.io/home](https://wexuo.github.io/home)
+预览地址：[https://qingqingok.github.io/home](https://qingqingok.github.io/home)
 
 ## 集成插件
 
@@ -23,3 +23,6 @@
 - [x] 点击冒点
 - [x] 雪花
 - [x] 搞怪标题栏 
+
+## 原创
+https://wexuo.github.io/home/
